@@ -1,16 +1,19 @@
+
 <p align="center">
- <img 
-  align="right" 
-  alt="Coding" 
-  width="400" 
-  src="https://i.ibb.co.com/s9QcDqw3/Banner.png" 
-/>
+  <img 
+    src="https://i.ibb.co.com/s9QcDqw3/Banner.png" 
+    alt="Banner"
+    width="100%"
+  />
 </p>
+
+<br/>
 
 <h1 align="center">Hi, I'm Sifat Ullah 👋</h1>
 <h3 align="center">MERN Stack Developer (In Progress)</h3>
 
 ---
+
 
 ## About Me
 I enjoy exploring new tools and improving my coding skills.
