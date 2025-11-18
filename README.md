@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/84xCjLxk/Black-Modern-Vlogger-You-Tube-Banner.png" alt="Banner" />
+https://i.ibb.co/84xCjLxk/Black-Modern-Vlogger-You-Tube-Banner.png
 </p>
 
 <h1 align="center">Hi, I'm Sifat Ullah 👋</h1>
