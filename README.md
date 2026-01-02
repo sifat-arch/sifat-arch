@@ -19,7 +19,7 @@
 I enjoy exploring new tools and improving my coding skills.
 
 **Current Activities:**
-- I’m exploring Express & MongoDB
+- I’m exploring Next.js
 - I’m currently working on a delivery service website
 - I’m learning React step-by-step
 - I’m building small practice projects
