@@ -54,7 +54,7 @@ I enjoy exploring new tools and improving my coding skills.
 
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sifat-arch&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifat-arch&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
@@ -65,22 +65,8 @@ I enjoy exploring new tools and improving my coding skills.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sifat-arch&theme=tokyo-night" alt="GitHub Activity Graph"/>
-</p> -->
+</p> 
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sifat-arch&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="sifat-arch's GitHub stats" height="180px" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifat-arch&layout=compact&theme=tokyonight&hide_border=false" alt="sifat-arch's Top Languages" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sifat-arch&theme=tokyonight&hide_border=false" alt="sifat-arch's GitHub Streak" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sifat-arch&theme=tokyo-night&area=true&hide_border=false" alt="sifat-arch's Activity Graph" width="100%" />
-</p>
 
 ---
